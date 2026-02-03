@@ -46,3 +46,8 @@ button:nth-child(2) {
     background: white;
     color: #e94d58;
 }
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
